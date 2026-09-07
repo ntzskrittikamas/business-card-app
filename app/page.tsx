@@ -109,7 +109,7 @@ export default async function Home() {
 
         {/* Profile Image placeholder */}
         <div className="w-24 h-24 bg-blue-500 rounded-full mx-auto mb-4 flex items-center justify-center font-bold text-2xl">
-          JD
+          ES
         </div>
         
         <h1 className="text-2xl font-bold">Erika S.</h1>
